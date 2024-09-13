@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iMltcOkwrnWoMKF4NKfW3wA5h4mozpJ8OwjAFGIKpxKjFvmX+oXKCNIkAIizBX24AmPD2SGHmsEYLJS0eVfmA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Test\\ClientForm\\ClientForm\\ClientForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.3.1\\firebirdsql.data.firebirdclient.10.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
